@@ -5,4 +5,4 @@
   <img src="figures/todos-review3.jpg" title="todos-review">
 </p>
 
-[:point_right:Click to See Review](https://gifted-jang-b6de5d.netlify.app/)
+[:point_right:Click to See Review](https://nostalgic-banach-b0d8e0.netlify.app)
