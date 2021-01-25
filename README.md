@@ -1,7 +1,7 @@
 
 <h1 align="center"> :sparkles:To-Do App Review:sparkles: </h1>
 
-<p>
+<p align="center">
   <img src="figures/todos-review3.jpg" title="todos-review">
 </p>
 
